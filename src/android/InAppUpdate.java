@@ -49,6 +49,7 @@ public class InAppUpdate extends CordovaPlugin {
         return false;
     }
 
+    // Docs : https://developer.android.com/reference/com/google/android/play/core/appupdate/AppUpdateManager
     private void update(CallbackContext callbackContext) {
         currentCallbackContext.set(callbackContext);
 
