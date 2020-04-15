@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-in-app-update",
+  "version": "0.0.1",
+  "description": "Cordova In app update for android only",
+  "cordova": {
+    "id": "cordova-plugin-in-app-update",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ziracmo",
+  "license": "ISC"
+}
